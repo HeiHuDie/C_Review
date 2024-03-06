@@ -20,7 +20,7 @@ putchar(c) is equivalent to putc(c, stdout).
 puts() writes the string s and a trailing newline  to stdout.  
 
 ## ex2
-man make:  
+### man make:  
 1. -B，--always-make:  
     可以强制 make 命令在任何情况下都重新构建所有指定的目标
 
